@@ -2,9 +2,9 @@
   "title": "SaalikLok.com",
   "url": "https://saaliklok.com/",
   "language": "en",
-  "description": "I am writing about my experiences as a naval navel-gazer.",
+  "description": "Saalik Lokhandwala's home on the world wide web.",
   "feed": {
-    "subtitle": "I am writing about my experiences as a naval navel-gazer.",
+    "subtitle": "Saalik Lokhandwala's home on the world wide web.",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
     "id": "https://example.com/"
@@ -14,8 +14,8 @@
     "url": "https://example.com/feed/feed.json"
   },
   "author": {
-    "name": "Your Name Here",
-    "email": "youremailaddress@example.com",
-    "url": "https://example.com/about-me/"
+    "name": "Saalik Lokhandwala",
+    "email": "saalikl111@gmail.com",
+    "url": "https://saaliklok.com/"
   }
 }
