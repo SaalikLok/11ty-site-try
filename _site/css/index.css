@@ -1,7 +1,18 @@
 body {
   text-align: left;
+  font-family: 'Antic Slab', serif;
+  background-color: #f6ede9;
+  color: #1d140c;
+  font-size: 1.1em;
 }
 
-ul li::marker{
-  font-size: 150%;
+code {
+  background: #2d2d2d;
+  color: #ccc;
+  padding: 0.65em;
+}
+
+nav li {
+  display: inline;
+  padding-right: 3em;
 }
