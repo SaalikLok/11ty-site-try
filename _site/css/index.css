@@ -1,3 +1,5 @@
+@import './home.css';
+
 body {
   text-align: left;
   font-family: 'Antic Slab', serif;
@@ -15,4 +17,8 @@ code {
 nav li {
   display: inline;
   padding-right: 3em;
+}
+
+.container {
+  padding: 2em;
 }
