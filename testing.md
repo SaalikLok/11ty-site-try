@@ -1,6 +1,6 @@
 ---
-title: Home
-layout: layouts/base.liquid
+title: TESTING
+layout: layouts/page.liquid
 ---
 
 # Hello Homepage
