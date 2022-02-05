@@ -4,7 +4,7 @@ description: This is a post on My Blog about agile frameworks.
 date: 2021-11-20
 tags:
   - musing
-layout: layouts/base.liquid
+layout: layouts/post.liquid
 ---
 Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
 
